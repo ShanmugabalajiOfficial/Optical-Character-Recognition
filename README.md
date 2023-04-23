@@ -11,6 +11,8 @@ Link for Downloading Tesseract - https://digi.bib.uni-mannheim.de/tesseract/tess
 2.Install pytesseract Libraries through command prompt -  pip install pytesseract
 
 
+
+
 Steps to deploy the project
 
 Step 1 : Install Tesseract - OCR Executable file using the above link
