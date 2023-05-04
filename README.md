@@ -22,4 +22,4 @@ Step 4 : Enter the image file name which needs to be recognized in line 17
 Step 5 : Now, Run the program
 
 
-The result will be stored in the text document which is named as result
+The output/predicted values will be stored in the text document which is named as result
